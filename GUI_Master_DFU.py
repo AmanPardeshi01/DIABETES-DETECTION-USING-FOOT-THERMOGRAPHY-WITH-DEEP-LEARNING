@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as tk 
 from tkinter import ttk, LEFT, END
 from PIL import Image , ImageTk 
 from tkinter.filedialog import askopenfilename
